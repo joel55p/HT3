@@ -18,3 +18,4 @@ Radix Sort;Aleatorios;10000;19267300
 Radix Sort;Ordenados;10000;2818600
 Heap Sort;Aleatorios;10000;9864000
 Heap Sort;Ordenados;10000;2633700
+Insertion Sort;Ordenados;30;39300

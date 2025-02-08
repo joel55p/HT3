@@ -1,7 +1,7 @@
 /**
  * Universidad del Valle de Guatemala
  * Departamento de Ciencia de la Computación
- * Autor: Denil José Parada Cabrera - 24761, Joel Nerio, Jose Rivera
+ * Autor: Denil José Parada Cabrera - 24761, Joel Nerio, Jose Rivera 24376
  * Fecha: [Fecha actual]
  * Descripción: Clase principal del programa que permite al usuario generar, ordenar y visualizar números
  *              aleatorios y ordenados. Incluye la ejecución de varios algoritmos de ordenamiento y el 
